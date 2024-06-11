@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15&height=150&section=header&animation=fadeIn&fontAlignY=45&text=PUDDING&desc=Loving%20Cloud&descAlignY=70&descAlign=62&fontSize=90"/>
 </p>
 
+<br>
+
+Hello! Welcome to Yerin Park's GitHub Page!!! I love studying Cloud Engineering & Linux, Network 😇📘
+
 <div align="center">
 
 ### 🥲 My Tech
@@ -17,5 +21,12 @@
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) <br>
 ![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge)
+
+<br>
+
+### 🏠 My Hometown in Heart
+
+---
+<img src="https://github.com/exrin3091/exrin3091/assets/116437605/8ee89722-5a4b-4011-9824-b5ffd96b039e" width="150" height="150">
 
 </div>
