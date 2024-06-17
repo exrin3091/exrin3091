@@ -24,6 +24,16 @@ Hello! Welcome to Yerin Park's GitHub Page!!! I love studying Cloud Engineering 
 
 <br>
 
+### 📝 My Certification
+
+---
+
+|[AWS Certified Cloud Practitioner](https://www.credly.com/badges/a27170c6-d4bb-4ede-bb29-04e2f5150198/public_url)|
+|--|
+|리눅스 마스터 2급|
+
+<br>
+
 ### 🏠 My Hometown in Heart
 
 ---
