@@ -22,6 +22,8 @@ Hello! Welcome to Yerin Park's GitHub Page!!! I love studying Cloud Engineering 
 ![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) <br>
 ![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge)
 
+![img](https://github.com/exrin3091/exrin3091/assets/116437605/6a0fd30c-e502-421b-a80f-11291c225d9f)
+
 <br>
 
 ### 📝 My Certification
