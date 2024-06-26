@@ -6,6 +6,8 @@
 
 Hello! Welcome to Yerin Park's GitHub Page!!! I love studying Cloud Engineering & Linux, Network 😇📘
 
+[공부내용 정리](https://github.com/exrin3091/StudyContents)
+
 <div align="center">
 
 ### 🥲 My Tech
