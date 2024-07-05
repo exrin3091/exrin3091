@@ -4,7 +4,7 @@
 
 <br>
 
-Hello! Welcome to My GitHub Page!!! I love studying Linux, Network & Cloud Engineering (and Donyang Mirae University) 😇📘
+Hello! Welcome to My GitHub Page!!! I love studying Linux, Network & Cloud Engineering (and Dongyang Mirae University) 😇📘
 
 <div align="center">
 
