@@ -4,7 +4,7 @@
 
 <br>
 
-Hello! Welcome to My GitHub Page!!! I love studying Cloud Engineering & Linux, Network 😇📘
+Hello! Welcome to My GitHub Page!!! I love studying Linux, Network & Cloud Engineering (and Donyang Mirae University) 😇📘
 
 <div align="center">
 
@@ -33,12 +33,5 @@ Hello! Welcome to My GitHub Page!!! I love studying Cloud Engineering & Linux, N
 |[AWS Certified Cloud Practitioner](https://www.credly.com/badges/a27170c6-d4bb-4ede-bb29-04e2f5150198/public_url) (2024.4.2 취득)|
 |--|
 |리눅스 마스터 2급 (2024.6.28 취득)|
-
-<br>
-
-### 🏠 My Hometown in Heart
-
----
-<img src="https://github.com/exrin3091/exrin3091/assets/116437605/8ee89722-5a4b-4011-9824-b5ffd96b039e" width="150" height="150">
 
 </div>
