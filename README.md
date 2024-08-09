@@ -26,14 +26,4 @@ Hello! Welcome to My GitHub Page!!! I love studying Linux, Network & Cloud Engin
 
 ![img](https://github.com/exrin3091/exrin3091/assets/116437605/6a0fd30c-e502-421b-a80f-11291c225d9f)
 
-<br>
-
-### 📝 My Certification
-
----
-
-|[AWS Certified Cloud Practitioner](https://www.credly.com/badges/a27170c6-d4bb-4ede-bb29-04e2f5150198/public_url) (2024.4.2 취득)|
-|--|
-|리눅스 마스터 2급 (2024.6.28 취득)|
-
 </div>
