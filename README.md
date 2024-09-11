@@ -1,10 +1,10 @@
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15&height=150&section=header&animation=fadeIn&fontAlignY=45&text=PUDDING&desc=Loving%20Cloud&descAlignY=70&descAlign=62&fontSize=90"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15&height=150&section=header&animation=fadeIn&fontAlignY=45&text=PUDDING&descAlignY=70&descAlign=62&fontSize=90"/>
 </p>
 
 <br>
 
-Hello! Welcome to My GitHub Page!!! I love studying Linux, Network & Cloud Engineering (and Dongyang Mirae University) 😇📘
+Hello! Welcome to My GitHub Page!!! 😇📘
 
 <div align="center">
 
